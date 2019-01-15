@@ -1,13 +1,27 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(42, 107, 182);
   }
   
   h1 {
     color: white;
     text-align: center;
   }
-  
+
+  div {
+    width:200px:
+    padding: 30px:
+}
+
   p {
     font-family: verdana;
     font-size: 20px;
+
+    margin-top:100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+    background-color: rgb(85, 224, 148);
   }
+
+  
